@@ -1,0 +1,40 @@
+{
+  "1533180307484966943": {
+    "logChannelId": "1533228393707999263",
+    "errorChannelId": "1533228623711178902",
+    "typeRoles": {
+      "purchase": [
+        "1533180307522453704"
+      ],
+      "support": [
+        "1533180307522453704"
+      ],
+      "configs": [
+        "1533180307522453704"
+      ],
+      "edit": [
+        "1533180307522453704"
+      ],
+      "appeal": [
+        "1533180307522453704"
+      ]
+    },
+    "typeSettings": {
+      "purchase": {
+        "autoDeleteMinutes": 840
+      },
+      "support": {
+        "autoDeleteMinutes": null
+      },
+      "configs": {
+        "autoDeleteMinutes": 840
+      },
+      "edit": {
+        "autoDeleteMinutes": 840
+      },
+      "appeal": {
+        "autoDeleteMinutes": 840
+      }
+    }
+  }
+}
