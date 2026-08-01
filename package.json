@@ -1,13 +1,17 @@
 {
   "name": "montagebot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vurpin Discord Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
   },
   "dependencies": {
     "discord.js": "^14.27.0",
     "dotenv": "^17.4.2"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
